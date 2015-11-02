@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\java\workspace\SMSInterceptor\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c580192686fa9d2aaa2164c0bb879021774cfa80.jar" />
+    </item>
+    <item
+        jar="D:\java\workspace\SMSInterceptor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\java\workspace\SMSInterceptor\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-c20429c308c43ebdd801db9a67b8e6591c69aae7.jar" />
+    </item>
+    <item
+        jar="D:\java\workspace\SMSInterceptor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\java\workspace\SMSInterceptor\app\build\intermediates\pre-dexed\debug\classes-52be080c9c5bddb10558a4e97d48b1e2f99a6756.jar" />
+    </item>
+    <item
+        jar="D:\java\workspace\SMSInterceptor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\java\workspace\SMSInterceptor\app\build\intermediates\pre-dexed\debug\classes-31cf72f1a4d9c24075099b1cfcf883a2993157f9.jar" />
+    </item>
+
+</items>

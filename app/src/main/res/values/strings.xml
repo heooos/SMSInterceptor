@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMSInterceptor</string>
+    <string name="setting">设置</string>
+    <string name="keyword">编辑关键字</string>
+    <string name="sender">编辑发送者</string>
+    <string name="add">添加</string>
+    <string name="addfromcontacts">从联系人添加</string>
+    <string name="dialog_title">请输入内容</string>
+    <string name="tv_tips">请编辑你要屏蔽的关键字和发送者</string>
+</resources>
